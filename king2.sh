@@ -11,6 +11,7 @@ yellow='\033[33;1m'
 
 clear
 sleep 1
+xdg-open https://youtube.com/channel/UCIEWrGcR1N4v4eIkVh3mX8Q
 echo
 echo
 echo $red"┊┊┊┊╱╲┊┊┊┊┊╱╲┊┊┊┊"
